@@ -1,0 +1,6 @@
+c:\Users\bkahwenga.batsipc\documents\visual studio 2015\Projects\Bfizz\RESTFulService\bin\RESTFulService.dll.config
+c:\Users\bkahwenga.batsipc\documents\visual studio 2015\Projects\Bfizz\RESTFulService\bin\RESTFulService.dll
+c:\Users\bkahwenga.batsipc\documents\visual studio 2015\Projects\Bfizz\RESTFulService\bin\RESTFulService.pdb
+c:\Users\bkahwenga.batsipc\documents\visual studio 2015\Projects\Bfizz\RESTFulService\obj\Debug\RESTFulService.csprojResolveAssemblyReference.cache
+c:\Users\bkahwenga.batsipc\documents\visual studio 2015\Projects\Bfizz\RESTFulService\obj\Debug\RESTFulService.dll
+c:\Users\bkahwenga.batsipc\documents\visual studio 2015\Projects\Bfizz\RESTFulService\obj\Debug\RESTFulService.pdb
